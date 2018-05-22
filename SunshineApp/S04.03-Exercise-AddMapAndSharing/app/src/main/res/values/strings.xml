@@ -27,6 +27,12 @@
     <!--Used in overflow menu to refresh weather data-->
     <string name="action_refresh">Refresh</string>
 
+    <!--Used in overflow menu to share weather data-->
+    <string name="action_share">Refresh</string>
+
+    <!--Used in overflow menu to show location of weather data-->
+    <string name="action_map">Share Weather Details</string>
+
     <string name="error_message">
         An error has occurred. Please try again by clicking REFRESH
     </string>
